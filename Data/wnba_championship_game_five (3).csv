@@ -1,0 +1,321 @@
+period,clock,was_score,con_score,description,team,event,x_loc,y_loc,field_goal_type,shot_type,shot_made,assisted,shooting_foul,distance_from_hoop,shot_angle
+1,09:40,0,2,[CON 2-0] Williams Layup Shot: Made (2 PTS),con,field_goal_attempt,25,13,two_pointer,layup,1,1,0,2.817800560721074,27.474431626277134
+1,09:25,0,2,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),con,foul,-65,26,NA,NA,0,0,1,7.000714249274855,158.19859051364818
+1,09:25,1,2,[WAS 1-2] Delle Donne Free Throw 1 of 2 (1 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+1,09:25,2,2,[WAS 2-2] Delle Donne Free Throw 2 of 2 (2 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+1,09:09,2,2,[CON] Stricklen Driving Layup Shot: Missed,con,field_goal_attempt,38,75,two_pointer,layup,0,0,0,8.407734534343957,63.13018691250093
+1,09:07,2,2,[CON] Stricklen Rebound (Off:1 Def:0),con,rebound,38,75,NA,NA,0,0,0,8.407734534343957,63.13018691250093
+1,09:06,2,2,[CON] Stricklen Layup Shot: Missed,con,field_goal_attempt,16,1,two_pointer,layup,0,0,0,1.6031219541881399,3.5763343749973515
+1,09:06,2,2,[WAS] Atkins Rebound (Off:0 Def:1),was,rebound,16,1,NA,NA,0,0,0,1.6031219541881399,3.5763343749973515
+1,08:47,2,2,[WAS] Atkins 3pt Shot: Missed,was,field_goal_attempt,143,221,three_pointer,jump,0,0,0,26.322993750711564,57.094757077012105
+1,08:42,2,2,[CON] Jones Rebound (Off:0 Def:1),con,rebound,143,221,NA,NA,0,0,0,26.322993750711564,57.094757077012105
+1,08:36,2,2,[CON] Williams Turnover : Bad Pass (1 TO) Steal:Sanders (1 ST),con,turnover,149,93,NA,NA,0,0,0,17.564168070250297,31.97080519205626
+1,08:31,2,2,[WAS] Atkins Running Layup Shot: Missed,was,field_goal_attempt,-124,27,two_pointer,layup,0,0,0,12.690547663517126,167.71604455889283
+1,08:29,2,2,[WAS] Cloud Rebound (Off:1 Def:0),was,rebound,-124,27,NA,NA,0,0,0,12.690547663517126,167.71604455889283
+1,08:17,4,2,[WAS 4-2] Toliver Pullup Jump shot: Made (2 PTS) Assist: Delle Donne (1 AST),was,field_goal_attempt,-80,129,two_pointer,jump,1,1,0,15.17926216915697,121.80532892499696
+1,08:01,4,4,[CON 4-4] Thomas Floating Jump shot: Made (2 PTS) Assist: Thomas (1 AST),con,field_goal_attempt,-69,146,two_pointer,jump,1,1,0,16.148374531202823,115.29554640032657
+1,07:46,4,4,[WAS] Atkins Turnover : Bad Pass (1 TO) Steal:Thomas (1 ST),was,turnover,-33,64,NA,NA,0,0,0,7.200694410957877,117.2767633831137
+1,07:41,4,6,[CON 6-4] Thomas Running Layup Shot: Made (4 PTS),con,field_goal_attempt,69,54,two_pointer,layup,1,1,0,8.76184911990614,38.04704253182609
+1,07:18,4,6,[WAS] Delle Donne Turnaround Jump Shot: Missed,was,field_goal_attempt,-103,5,two_pointer,jump,0,0,0,10.312128781197412,177.22083313592793
+1,07:14,4,6,[CON] Jones Rebound (Off:0 Def:2),con,rebound,-103,5,NA,NA,0,0,0,10.312128781197412,177.22083313592793
+1,07:05,4,8,[CON 8-4] Jones Driving Layup Shot: Made (2 PTS),con,field_goal_attempt,15,35,two_pointer,layup,1,1,0,3.8078865529319543,66.80140948635182
+1,06:49,6,8,[WAS 6-8] Sanders Jump Shot: Made (2 PTS) Assist: Atkins (1 AST),was,field_goal_attempt,143,26,two_pointer,jump,1,1,0,14.534441853748634,10.304846468766033
+1,06:32,6,11,[CON 11-6] Stricklen 3pt Shot: Made (3 PTS) Assist: Thomas (2 AST),con,field_goal_attempt,234,66,three_pointer,jump,1,1,0,24.31295950722577,15.751173663453025
+1,06:23,8,11,[WAS 8-11] Cloud Running Reverse Layup Shot: Made (2 PTS),was,field_goal_attempt,-39,16,two_pointer,layup,1,1,0,4.215447781671599,157.69379494509235
+1,06:02,8,11,[CON] Jones Driving Hook Shot: Missed,con,field_goal_attempt,-22,48,two_pointer,hook,0,0,0,5.280151512977634,114.62356478616361
+1,05:58,8,11,[WAS] Atkins Rebound (Off:0 Def:2),was,rebound,-22,48,NA,NA,0,0,0,5.280151512977634,114.62356478616361
+1,05:49,10,11,[WAS 10-11] Delle Donne Driving Layup Shot: Made (4 PTS),was,field_goal_attempt,-28,20,two_pointer,layup,1,1,0,3.4409301068170506,144.46232220802563
+1,05:30,10,13,[CON 13-10] Williams Driving Layup Shot: Made (4 PTS),con,field_goal_attempt,35,22,two_pointer,layup,1,1,0,4.1340053217188775,32.15229514128234
+1,05:08,12,13,[WAS 12-13] Atkins Driving Layup Shot: Made (2 PTS),was,field_goal_attempt,-58,26,two_pointer,layup,1,1,0,6.356099432828281,155.85445803957836
+1,04:59,12,13,[CON] Williams Jump Shot: Missed,con,field_goal_attempt,9,151,two_pointer,jump,0,0,0,15.12679741386127,86.58905504464427
+1,04:56,12,13,[WAS] Delle Donne Rebound (Off:0 Def:1),was,rebound,9,151,NA,NA,0,0,0,15.12679741386127,86.58905504464427
+1,04:50,15,13,[WAS 15-13] Toliver 3pt Shot: Made (5 PTS) Assist: Delle Donne (2 AST),was,field_goal_attempt,189,181,three_pointer,jump,1,1,0,26.169065707434033,43.761365329103114
+1,04:31,15,13,[CON] Jones Layup Shot: Missed Block: Delle Donne (1 BLK),con,field_goal_attempt,98,76,two_pointer,layup,0,0,0,12.401612798341997,37.79394299861673
+1,04:27,15,13,[CON] Jones Rebound (Off:1 Def:2),con,rebound,98,76,NA,NA,0,0,0,12.401612798341997,37.79394299861673
+1,04:26,15,15,[CON 15-15] Jones Layup Shot: Made (4 PTS),con,field_goal_attempt,28,-4,two_pointer,layup,1,1,0,2.82842712474619,351.869897645844
+1,04:05,15,15,[WAS] Atkins 3pt Shot: Missed,was,field_goal_attempt,-83,244,three_pointer,jump,0,0,0,25.773047937719742,108.78645226279536
+1,04:04,15,15,[WAS] Delle Donne Rebound (Off:1 Def:1),was,rebound,-83,244,NA,NA,0,0,0,25.773047937719742,108.78645226279536
+1,04:02,15,15,[WAS] Delle Donne Jump Shot: Missed,was,field_goal_attempt,-3,212,two_pointer,jump,0,0,0,21.202122535255757,90.81073521926237
+1,03:59,15,15,[WAS] Atkins Rebound (Off:1 Def:2),was,rebound,-3,212,NA,NA,0,0,0,21.202122535255757,90.81073521926237
+1,03:59,17,15,[WAS 17-15] Atkins Putback Layup Shot: Made (4 PTS),was,field_goal_attempt,-28,-2,two_pointer,layup,1,1,0,2.80713376952364,184.08561677997488
+1,03:44,17,15,[CON] Jones 3pt Shot: Missed,con,field_goal_attempt,226,115,three_pointer,jump,0,0,0,25.357641846196977,26.969247501837305
+1,03:42,17,15,[CON] Team Rebound,con,rebound,226,115,NA,NA,0,0,0,25.357641846196977,26.969247501837305
+1,03:42,17,15,[WAS] Atkins Foul: Loose Ball (1 PF),was,foul,-3,58,NA,NA,0,0,0,5.807753438292642,92.96093613416375
+1,03:32,17,15,[CON] Thomas Floating Jump shot: Missed,con,field_goal_attempt,2,148,two_pointer,jump,0,0,0,14.801351289662712,89.22577983507195
+1,03:31,17,15,[CON] Team Rebound,con,rebound,2,148,NA,NA,0,0,0,14.801351289662712,89.22577983507195
+1,03:31,17,15,[WAS] Delle Donne Foul: Loose Ball (1 PF),was,foul,10,109,NA,NA,0,0,0,10.945775440780794,84.75818005302044
+1,03:25,17,15,[CON] Williams Pullup Jump shot: Missed,con,field_goal_attempt,-118,33,two_pointer,jump,0,0,0,12.252754792290588,164.3757654188132
+1,03:21,17,15,[CON] Jones Rebound (Off:2 Def:2),con,rebound,-118,33,NA,NA,0,0,0,12.252754792290588,164.3757654188132
+1,03:14,17,17,[CON 17-17] Jones Cutting Layup Shot: Made (6 PTS) Assist: Thomas (3 AST),con,field_goal_attempt,42,19,two_pointer,layup,1,1,0,4.6097722286464435,24.341089936692512
+1,03:02,17,17,[CON] Thomas Foul: Personal (2 PF),con,foul,17,43,NA,NA,0,0,0,4.623851208678757,68.4286928087454
+1,02:48,17,17,[WAS] Delle Donne Layup Shot: Missed,was,field_goal_attempt,-49,27,two_pointer,layup,0,0,0,5.594640292279746,151.14433878028348
+1,02:48,17,17,[WAS] Team Rebound,was,rebound,-49,27,NA,NA,0,0,0,5.594640292279746,151.14433878028348
+1,02:36,17,17,[WAS] Powers Driving Layup Shot: Missed,was,field_goal_attempt,32,52,two_pointer,layup,0,0,0,6.105735008989499,58.392497753751094
+1,02:34,17,17,[CON] Tuck Rebound (Off:0 Def:1),con,rebound,32,52,NA,NA,0,0,0,6.105735008989499,58.392497753751094
+1,02:26,17,17,[CON] Tuck 3pt Shot: Missed,con,field_goal_attempt,208,147,three_pointer,jump,0,0,0,25.470178640912593,35.25002453803833
+1,02:22,17,17,[WAS] Powers Rebound (Off:0 Def:1),was,rebound,208,147,NA,NA,0,0,0,25.470178640912593,35.25002453803833
+1,02:19,17,17,[WAS] Cloud 3pt Shot: Missed,was,field_goal_attempt,-195,173,three_pointer,jump,0,0,0,26.067988031299997,138.42121927642933
+1,02:15,17,17,[CON] Jones Rebound (Off:2 Def:3),con,rebound,-195,173,NA,NA,0,0,0,26.067988031299997,138.42121927642933
+1,01:59,17,17,[CON] Williams Driving Floating Jump Shot: Missed,con,field_goal_attempt,26,90,two_pointer,jump,0,0,0,9.368030742904295,73.88658176691072
+1,01:57,17,17,[WAS] Toliver Rebound (Off:0 Def:1),was,rebound,26,90,NA,NA,0,0,0,9.368030742904295,73.88658176691072
+1,01:51,17,17,[CON] Stricklen Foul: Shooting (1 PF) (2 FTA),con,foul,-46,75,NA,NA,0,0,1,8.798295289429651,121.52217724675867
+1,01:51,18,17,[WAS 18-17] Cloud Free Throw 1 of 2 (3 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+1,01:51,19,17,[WAS 19-17] Cloud Free Throw 2 of 2 (4 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+1,01:34,19,17,[CON] Jones Jump Shot: Missed,con,field_goal_attempt,136,18,two_pointer,jump,0,0,0,13.718600511714014,7.539445139509308
+1,01:33,19,17,[CON] Team Rebound,con,rebound,136,18,NA,NA,0,0,0,13.718600511714014,7.539445139509308
+1,01:33,19,17,[WAS] Cloud Foul: Loose Ball (1 PF),was,foul,13,107,NA,NA,0,0,0,10.778682665335314,83.07278187399082
+1,01:31,19,17,[CON] Stricklen Foul: Offensive Charge (2 PF),con,foul,3,217,NA,NA,0,0,0,21.702073633641554,89.20794290783762
+1,01:31,19,17,[CON] Stricklen Turnover : Offensive Foul Turnover (1 TO),con,turnover,3,217,NA,NA,0,0,0,21.702073633641554,89.20794290783762
+1,01:22,21,17,[WAS 21-17] Meesseman Jump Shot: Made (2 PTS) Assist: Cloud (1 AST),was,field_goal_attempt,-183,3,two_pointer,jump,1,1,0,18.302458851203575,179.06080905426444
+1,01:04,21,19,[CON 19-21] Tuck Cutting Layup Shot: Made (2 PTS) Assist: Stricklen (1 AST),con,field_goal_attempt,-19,12,two_pointer,layup,1,1,0,2.247220505424423,147.72435568542238
+1,00:51.0,23,19,[WAS 23-19] Meesseman Cutting Layup Shot: Made (4 PTS) Assist: Powers (1 AST),was,field_goal_attempt,-3,24,two_pointer,layup,1,1,0,2.4186773244895647,97.12501634890181
+1,00:39.4,23,19,[CON] Tuck 3pt Shot: Missed,con,field_goal_attempt,-115,233,three_pointer,jump,0,0,0,25.983456275099353,116.26920640779686
+1,00:36.3,23,19,[WAS] Powers Rebound (Off:0 Def:2),was,rebound,-115,233,NA,NA,0,0,0,25.983456275099353,116.26920640779686
+1,00:30.1,23,19,[WAS] Powers 3pt Shot: Missed,was,field_goal_attempt,-170,176,three_pointer,jump,0,0,0,24.4695729427385,134.0065311437174
+1,00:27.3,23,19,[CON] Thomas Rebound (Off:0 Def:1),con,rebound,-170,176,NA,NA,0,0,0,24.4695729427385,134.0065311437174
+1,00:15.2,23,19,[WAS] Walker-Kimbrough Foul: Shooting (1 PF) (2 FTA),was,foul,-12,140,NA,NA,0,0,1,14.051334456200237,94.89909245378777
+1,00:15.2,23,19,[CON] Holmes Free Throw 1 of 2 Missed,con,free_throw_attempt,0,-80,NA,NA,0,0,0,8,270
+1,00:15.2,23,19,[CON] Team Rebound,con,rebound,0,-80,NA,NA,0,0,0,8,270
+1,00:15.2,23,20,[CON 20-23] Holmes Free Throw 2 of 2 (1 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+1,00:02.1,23,20,[WAS] Walker-Kimbrough 3pt Shot: Missed,was,field_goal_attempt,-242,-11,three_pointer,jump,0,0,0,24.224987100099764,182.60256220249983
+1,00:02.1,23,20,[WAS] Toliver Rebound (Off:1 Def:1),was,rebound,-242,-11,NA,NA,0,0,0,24.224987100099764,182.60256220249983
+1,00:00.2,23,20,[WAS] Toliver 3pt Shot: Missed,was,field_goal_attempt,-98,250,three_pointer,jump,0,0,0,26.852187992787478,111.40517943011854
+1,00:00.1,23,20,[WAS] Team Rebound,was,rebound,-98,250,NA,NA,0,0,0,26.852187992787478,111.40517943011854
+2,09:46,25,20,[WAS 25-20] Toliver Driving Finger Roll Layup Shot: Made (7 PTS),was,field_goal_attempt,23,33,two_pointer,layup,1,1,0,4.022437072223753,55.12467165539782
+2,09:46,25,20,[CON] Thomas Foul: Shooting (1 PF) (1 FTA),con,foul,-89,699,NA,NA,0,0,1,70.4643172109118,97.256127743649
+2,09:46,26,20,[WAS 26-20] Toliver Free Throw 1 of 1 (8 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+2,09:35,26,20,[WAS] Meesseman Foul: Shooting (1 PF) (2 FTA),was,foul,75,13,NA,NA,0,0,1,7.611832893594026,9.833563964207116
+2,09:35,26,21,[CON 21-26] Jones Free Throw 1 of 2 (1 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+2,09:35,26,22,[CON 22-26] Jones Free Throw 2 of 2 (2 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+2,09:20,26,22,[WAS] Hawkins Jump Shot: Missed,was,field_goal_attempt,125,-11,two_pointer,jump,0,0,0,12.54830665866913,354.97092641821456
+2,09:17,26,22,[CON] Thomas Rebound (Off:0 Def:1),con,rebound,125,-11,NA,NA,0,0,0,12.54830665866913,354.97092641821456
+2,09:13,26,24,[CON 24-26] Holmes Pullup Jump shot: Made (3 PTS) Assist: Thomas (1 AST),con,field_goal_attempt,-139,97,two_pointer,jump,1,1,0,16.949926253526886,145.09105723888894
+2,08:54,26,24,[WAS] Meesseman Turnover : Bad Pass (1 TO) Steal:Thomas (1 ST),was,turnover,11,63,NA,NA,0,0,0,6.395310782127793,80.09581678702612
+2,08:54,26,24,[WAS] Toliver Foul: Personal Take (1 PF),was,foul,-93,565,NA,NA,0,0,0,57.260282919315024,99.3471714998432
+2,08:40,26,26,[CON 26-26] Thomas Hook Shot: Made (6 PTS),con,field_goal_attempt,-51,147,two_pointer,hook,1,1,0,15.559562975867927,109.13364320590547
+2,08:20,28,26,[WAS 28-26] Delle Donne Layup Shot: Made (6 PTS) Assist: Meesseman (1 AST),was,field_goal_attempt,-30,17,two_pointer,layup,1,1,0,3.448187929913334,150.46121774044192
+2,08:09,28,26,[CON] Thomas Pullup Jump shot: Missed,con,field_goal_attempt,-100,142,two_pointer,jump,0,0,0,17.367786272291585,125.15417763214742
+2,08:05,28,26,[WAS] Toliver Rebound (Off:1 Def:2),was,rebound,-100,142,NA,NA,0,0,0,17.367786272291585,125.15417763214742
+2,08:00,28,26,[WAS] Toliver 3pt Shot: Missed,was,field_goal_attempt,-171,182,three_pointer,jump,0,0,0,24.97298540423231,133.21515667568102
+2,07:57,28,26,[CON] Thomas Rebound (Off:0 Def:2),con,rebound,-171,182,NA,NA,0,0,0,24.97298540423231,133.21515667568102
+2,07:55,28,28,[CON 28-28] Stricklen Running Layup Shot: Made (5 PTS) Assist: Thomas (2 AST),con,field_goal_attempt,52,27,two_pointer,layup,1,1,0,5.8591808301161015,27.43972794819931
+2,07:38,28,28,[WAS] Walker-Kimbrough 3pt Shot: Missed,was,field_goal_attempt,-158,196,three_pointer,jump,0,0,0,25.175384803414627,128.87306699450593
+2,07:36,28,28,[CON] Jones Rebound (Off:0 Def:1),con,rebound,-158,196,NA,NA,0,0,0,25.175384803414627,128.87306699450593
+2,07:30,28,28,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Walker-Kimbrough (1 ST),con,turnover,41,34,NA,NA,0,0,0,5.32634959423431,39.66784111834044
+2,07:16,28,28,[WAS] Delle Donne Turnaround Jump Shot: Missed,was,field_goal_attempt,28,42,two_pointer,jump,0,0,0,5.047771785649585,56.309932474020215
+2,07:13,28,28,[WAS] Atkins Rebound (Off:2 Def:2),was,rebound,28,42,NA,NA,0,0,0,5.047771785649585,56.309932474020215
+2,07:10,30,28,[WAS 30-28] Atkins Layup Shot: Made (6 PTS) Assist: Hawkins (1 AST),was,field_goal_attempt,-53,3,two_pointer,layup,1,1,0,5.308483775994799,176.76029970389789
+2,06:57,30,30,[CON 30-30] Thomas Driving Layup Shot: Made (8 PTS),con,field_goal_attempt,91,38,two_pointer,layup,1,1,0,9.861541461658009,22.6645574346961
+2,06:31,30,30,[WAS] Delle Donne 3pt Shot: Missed,was,field_goal_attempt,-94,223,three_pointer,jump,0,0,0,24.200206610688266,112.85662301994753
+2,06:31,30,30,[WAS] Team Rebound,was,rebound,-94,223,NA,NA,0,0,0,24.200206610688266,112.85662301994753
+2,06:31,30,30,[WAS] Team Turnover : Shot Clock Turnover,was,turnover,-46,253,NA,NA,0,0,0,25.71478174124758,100.30484646876603
+2,06:19,30,32,[CON 32-30] Jones Turnaround Fadeaway shot: Made (8 PTS) Assist: Thomas (4 AST),con,field_goal_attempt,-132,102,two_pointer,jump,1,1,0,16.68172652934941,142.30575953331083
+2,06:00,30,32,[WAS] Meesseman Jump Shot: Missed,was,field_goal_attempt,-104,94,two_pointer,jump,0,0,0,14.018559127100048,137.89126959622058
+2,05:56,30,32,[CON] Thomas Rebound (Off:0 Def:3),con,rebound,-104,94,NA,NA,0,0,0,14.018559127100048,137.89126959622058
+2,05:52,30,32,[CON] Jones Jump Shot: Missed,con,field_goal_attempt,-4,201,two_pointer,jump,0,0,0,20.103979705520995,91.14006403378639
+2,05:49,30,32,[WAS] Delle Donne Rebound (Off:1 Def:2),was,rebound,-4,201,NA,NA,0,0,0,20.103979705520995,91.14006403378639
+2,05:39,30,32,[CON] Jones Foul: Shooting (1 PF) (2 FTA),con,foul,69,26,NA,NA,0,0,1,7.373601562330311,20.646990824970363
+2,05:39,31,32,[WAS 31-32] Delle Donne Free Throw 1 of 2 (7 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+2,05:39,32,32,[WAS 32-32] Delle Donne Free Throw 2 of 2 (8 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+2,05:32,32,32,[WAS] Sanders Foul: Personal (1 PF),was,foul,21,74,NA,NA,0,0,0,7.692203845452875,74.156917882313
+2,05:15,32,32,[CON] Team Turnover : Shot Clock Turnover,con,turnover,-150,230,NA,NA,0,0,0,27.459060435491963,123.11134196037203
+2,05:03,32,32,[WAS] Toliver Driving Finger Roll Layup Shot: Missed,was,field_goal_attempt,23,44,two_pointer,layup,0,0,0,4.964876634922564,62.40270413135628
+2,05:01,32,32,[CON] Jones Rebound (Off:2 Def:4),con,rebound,23,44,NA,NA,0,0,0,4.964876634922564,62.40270413135628
+2,04:57,32,32,[WAS] Cloud Foul: Shooting (2 PF) (2 FTA),was,foul,7,27,NA,NA,0,0,1,2.7892651361962706,75.46554491945989
+2,04:57,32,33,[CON 33-32] Jones Free Throw 1 of 2 (9 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+2,04:57,32,34,[CON 34-32] Jones Free Throw 2 of 2 (10 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+2,04:32,32,34,[WAS] Cloud Driving Hook Shot: Missed,was,field_goal_attempt,-50,59,two_pointer,hook,0,0,0,7.733692520394123,130.27986306895644
+2,04:30,32,34,[CON] Thomas Rebound (Off:0 Def:4),con,rebound,-50,59,NA,NA,0,0,0,7.733692520394123,130.27986306895644
+2,04:20,32,34,[CON] Jones Turnover : Bad Pass (1 TO) Steal:Delle Donne (1 ST),con,turnover,-67,135,NA,NA,0,0,0,15.071164520368026,116.3950345261977
+2,04:15,32,34,[WAS] Sanders Jump Shot: Missed,was,field_goal_attempt,121,14,two_pointer,jump,0,0,0,12.180722474467597,6.5999169819138706
+2,04:11,32,34,[CON] Thomas Rebound (Off:0 Def:5),con,rebound,121,14,NA,NA,0,0,0,12.180722474467597,6.5999169819138706
+2,03:53,32,34,[CON] Stricklen 3pt Shot: Missed,con,field_goal_attempt,198,130,three_pointer,jump,0,0,0,23.686282950264694,33.28752768891249
+2,03:50,32,34,[WAS] Team Rebound,was,rebound,198,130,NA,NA,0,0,0,23.686282950264694,33.28752768891249
+2,03:36,32,34,[WAS] Cloud Turnover : Bad Pass (1 TO) Steal:Stricklen (1 ST),was,turnover,-154,311,NA,NA,0,0,0,34.70403434760864,116.34354797834624
+2,03:32,32,34,[CON] Thomas Layup Shot: Missed Block: Sanders (1 BLK),con,field_goal_attempt,50,15,two_pointer,layup,0,0,0,5.220153254455275,16.69924423399362
+2,03:31,32,34,[CON] Thomas Rebound (Off:1 Def:1),con,rebound,50,15,NA,NA,0,0,0,5.220153254455275,16.69924423399362
+2,03:31,32,34,[WAS] Atkins Foul: Personal (2 PF) (2 FTA),was,foul,26,204,NA,NA,0,0,0,20.565018842685266,82.73675525941545
+2,03:31,32,34,[CON] Thomas Free Throw 1 of 2 Missed,con,free_throw_attempt,0,-80,NA,NA,0,0,0,8,270
+2,03:31,32,34,[CON] Team Rebound,con,rebound,0,-80,NA,NA,0,0,0,8,270
+2,03:31,32,34,[CON] Thomas Free Throw 2 of 2 Missed,con,free_throw_attempt,0,-80,NA,NA,0,0,0,8,270
+2,03:29,32,34,[WAS] Powers Rebound (Off:0 Def:3),was,rebound,0,-80,NA,NA,0,0,0,8,270
+2,03:14,34,34,[WAS 34-34] Cloud Driving Layup Shot: Made (6 PTS) Assist: Toliver (1 AST),was,field_goal_attempt,43,54,two_pointer,layup,1,1,0,6.902897942168927,51.469819985173174
+2,03:02,34,34,[CON] Jones Foul: Offensive Charge (2 PF),con,foul,-81,38,NA,NA,0,0,0,8.947066558375433,154.86704500708666
+2,03:02,34,34,[CON] Jones Turnover : Offensive Foul Turnover (2 TO),con,turnover,-81,38,NA,NA,0,0,0,8.947066558375433,154.86704500708666
+2,02:41,36,34,[WAS 36-34] Delle Donne Pullup Jump shot: Made (10 PTS),was,field_goal_attempt,-39,72,two_pointer,jump,1,1,0,8.188406438373708,118.44292862436335
+2,02:21,36,34,[WAS] Sanders Foul: Shooting (2 PF) (2 FTA),was,foul,9,24,NA,NA,0,0,1,2.563201123595259,69.44395478041653
+2,02:21,36,35,[CON 35-36] Thomas Free Throw 1 of 2 (9 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+2,02:21,36,36,[CON 36-36] Thomas Free Throw 2 of 2 (10 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+2,02:10,36,36,[WAS] Toliver Turnover : Out of Bounds - Bad Pass Turnover (1 TO),was,turnover,-92,256,NA,NA,0,0,0,27.202941017470888,109.76716867679166
+2,01:57,36,36,[CON] Williams Driving Layup Shot: Missed Block: Powers (1 BLK),con,field_goal_attempt,72,85,two_pointer,layup,0,0,0,11.139569111954017,49.73343833057548
+2,01:53,36,36,[CON] Thomas Rebound (Off:1 Def:5),con,rebound,72,85,NA,NA,0,0,0,11.139569111954017,49.73343833057548
+2,01:52,36,38,[CON 38-36] Thomas Putback Layup Shot: Made (12 PTS),con,field_goal_attempt,-11,43,two_pointer,layup,1,1,0,4.43846820423443,104.34933204294714
+2,01:38,36,38,[CON] Jones Foul: Shooting (3 PF) (2 FTA),con,foul,-15,118,NA,NA,0,0,1,11.894956914591999,97.24450685244118
+2,01:38,36,38,[WAS] Cloud Free Throw 1 of 2 Missed,was,free_throw_attempt,0,-80,NA,NA,0,0,0,8,270
+2,01:38,36,38,[WAS] Team Rebound,was,rebound,0,-80,NA,NA,0,0,0,8,270
+2,01:38,37,38,[WAS 37-38] Cloud Free Throw 2 of 2 (7 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+2,01:26,37,40,[CON 40-37] Williams Pullup Jump shot: Made (6 PTS),con,field_goal_attempt,75,96,two_pointer,jump,1,1,0,12.182364302548171,52.001267557495346
+2,01:14,40,40,[WAS 40-40] Meesseman 3pt Shot: Made (7 PTS) Assist: Cloud (2 AST),was,field_goal_attempt,197,161,three_pointer,jump,1,1,0,25.442091109026396,39.25771672219587
+2,01:04,40,43,[CON 43-40] Jones 3pt Shot: Made (13 PTS) Assist: Thomas (5 AST),con,field_goal_attempt,-117,226,three_pointer,jump,1,1,0,25.448968544913566,117.37056266550377
+2,00:46.8,40,43,[WAS] Meesseman 3pt Shot: Missed,was,field_goal_attempt,-135,225,three_pointer,jump,0,0,0,26.239283526803852,120.96375653207352
+2,00:44.9,40,43,[CON] Stricklen Rebound (Off:1 Def:1),con,rebound,-135,225,NA,NA,0,0,0,26.239283526803852,120.96375653207352
+2,00:37.4,40,43,[CON] Jones Layup Shot: Missed,con,field_goal_attempt,-1,37,two_pointer,layup,0,0,0,3.7013511046643495,91.54815769897796
+2,00:34.4,40,43,[WAS] Delle Donne Rebound (Off:1 Def:3),was,rebound,-1,37,NA,NA,0,0,0,3.7013511046643495,91.54815769897796
+2,00:18.2,42,43,[WAS 42-43] Powers Layup Shot: Made (2 PTS) Assist: Meesseman (2 AST),was,field_goal_attempt,-49,5,two_pointer,layup,1,1,0,4.925444142409901,174.17365797044422
+3,09:44,42,43,[WAS] Delle Donne Turnaround Fadeaway shot: Missed,was,field_goal_attempt,-95,50,two_pointer,jump,0,0,0,10.735455276791944,152.24145939893998
+3,09:41,42,43,[CON] Team Rebound,con,rebound,-95,50,NA,NA,0,0,0,10.735455276791944,152.24145939893998
+3,09:23,42,45,[CON 45-42] Jones Turnaround Fadeaway shot: Made (15 PTS),con,field_goal_attempt,26,155,two_pointer,jump,1,1,0,15.7165517846632,80.47774499007478
+3,09:06,44,45,[WAS 44-45] Toliver Turnaround Fadeaway shot: Made (10 PTS),was,field_goal_attempt,93,65,two_pointer,jump,1,1,0,11.346365056704284,34.95065141187513
+3,08:50,44,47,[CON 47-44] Williams Driving Floating Jump Shot: Made (8 PTS),con,field_goal_attempt,103,73,two_pointer,jump,1,1,0,12.624579200908045,35.3266445675965
+3,08:23,44,47,[WAS] Toliver Turnaround Jump Shot: Missed,was,field_goal_attempt,-107,50,two_pointer,jump,0,0,0,11.81058846967415,154.9537992203572
+3,08:22,44,47,[WAS] Team Rebound,was,rebound,-107,50,NA,NA,0,0,0,11.81058846967415,154.9537992203572
+3,08:22,44,47,[CON] Stricklen Foul: Loose Ball (3 PF),con,foul,-9,18,NA,NA,0,0,0,2.012461179749811,116.56505117707799
+3,08:13,44,47,[WAS] Cloud 3pt Shot: Missed,was,field_goal_attempt,-150,221,three_pointer,jump,0,0,0,26.709736052608235,124.16603397687982
+3,08:10,44,47,[CON] Thomas Rebound (Off:1 Def:6),con,rebound,-150,221,NA,NA,0,0,0,26.709736052608235,124.16603397687982
+3,07:57,44,49,[CON 49-44] Jones Layup Shot: Made (17 PTS) Assist: Thomas (3 AST),con,field_goal_attempt,20,42,two_pointer,layup,1,1,0,4.651881339845203,64.5366549381284
+3,07:45,44,49,[WAS] Toliver Turnover : Traveling (2 TO),was,turnover,30,87,NA,NA,0,0,0,9.20271699010678,70.97439396243132
+3,07:31,44,49,[CON] Stricklen 3pt Shot: Missed,con,field_goal_attempt,65,268,three_pointer,jump,0,0,0,27.576983156248257,76.36688641100815
+3,07:29,44,49,[WAS] Cloud Rebound (Off:1 Def:1),was,rebound,65,268,NA,NA,0,0,0,27.576983156248257,76.36688641100815
+3,07:15,44,49,[WAS] Toliver Turnover : Traveling (3 TO),was,turnover,-90,74,NA,NA,0,0,0,11.651609330903607,140.57219780396383
+3,07:01,44,51,[CON 51-44] Williams Pullup Jump shot: Made (10 PTS),con,field_goal_attempt,156,90,two_pointer,jump,1,1,0,18.009997223764362,29.98163936884934
+3,06:48,44,51,[WAS] Delle Donne Pullup Jump shot: Missed,was,field_goal_attempt,-132,62,two_pointer,jump,0,0,0,14.583552379307312,154.84069808396833
+3,06:44,44,51,[CON] Thomas Rebound (Off:1 Def:7),con,rebound,-132,62,NA,NA,0,0,0,14.583552379307312,154.84069808396833
+3,06:39,44,53,[CON 53-44] Jones Cutting Layup Shot: Made (19 PTS) Assist: Thomas (4 AST),con,field_goal_attempt,22,0,two_pointer,layup,1,1,0,2.2,0
+3,06:22,46,53,[WAS 46-53] Delle Donne Layup Shot: Made (12 PTS),was,field_goal_attempt,-9,34,two_pointer,layup,1,1,0,3.517101079013795,104.82647997035568
+3,06:22,46,53,[CON] Jones Foul: Shooting (4 PF) (1 FTA),con,foul,2,82,NA,NA,0,0,1,8.202438661763951,88.60281897270363
+3,06:22,47,53,[WAS 47-53] Delle Donne Free Throw 1 of 1 (13 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+3,06:06,47,53,[CON] Thomas Turnover : Step Out of Bounds Turnover (1 TO),con,turnover,-224,33,NA,NA,0,0,0,22.641775548750587,171.61938677707232
+3,05:45,47,53,[CON] Jones Foul: Shooting (1 PF) (2 FTA),con,foul,-67,114,NA,NA,0,0,1,13.223085872821065,120.4435756799257
+3,05:45,48,53,[WAS 48-53] Meesseman Free Throw 1 of 2 (8 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+3,05:45,49,53,[WAS 49-53] Meesseman Free Throw 2 of 2 (9 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+3,05:32,49,53,[CON] Stricklen 3pt Shot: Missed,con,field_goal_attempt,-174,201,three_pointer,jump,0,0,0,26.585146228674386,130.88181029601122
+3,05:29,49,53,[WAS] Delle Donne Rebound (Off:1 Def:4),was,rebound,-174,201,NA,NA,0,0,0,26.585146228674386,130.88181029601122
+3,05:18,51,53,[WAS 51-53] Meesseman Turnaround Fadeaway Bank Jump Shot: Made (11 PTS),was,field_goal_attempt,-42,11,two_pointer,jump,1,1,0,4.341658669218482,165.32360686255
+3,05:05,51,53,[CON] Williams Pullup Jump shot: Missed,con,field_goal_attempt,-25,178,two_pointer,jump,0,0,0,17.974704448196082,97.99486473076328
+3,05:02,51,53,[WAS] Meesseman Rebound (Off:0 Def:1),was,rebound,-25,178,NA,NA,0,0,0,17.974704448196082,97.99486473076328
+3,04:53,51,53,[WAS] Cloud Turnover : Bad Pass (2 TO) Steal:Thomas (2 ST),was,turnover,13,180,NA,NA,0,0,0,18.046883387443938,85.8691437667236
+3,04:50,51,55,[CON 55-51] Thomas Running Layup Shot: Made (14 PTS),con,field_goal_attempt,-3,38,two_pointer,layup,1,1,0,3.8118237105091834,94.51398845800125
+3,04:50,51,55,[WAS] Delle Donne Foul: Shooting (2 PF) (1 FTA),was,foul,-3,57,NA,NA,0,0,1,5.707889277132135,93.01278750418335
+3,04:50,51,56,[CON 56-51] Thomas Free Throw 1 of 1 (15 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+3,04:37,51,56,[CON] Jones Foul: Personal (2 PF),con,foul,-59,15,NA,NA,0,0,0,6.087692502089769,165.73548770192014
+3,04:31,51,56,[CON] Jones Foul: Shooting (3 PF) (2 FTA),con,foul,-68,23,NA,NA,0,0,1,7.178439941937245,161.31264849478885
+3,04:31,51,56,[WAS] Meesseman Free Throw 1 of 2 Missed,was,free_throw_attempt,0,-80,NA,NA,0,0,0,8,270
+3,04:31,51,56,[WAS] Team Rebound,was,rebound,0,-80,NA,NA,0,0,0,8,270
+3,04:31,52,56,[WAS 52-56] Meesseman Free Throw 2 of 2 (12 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+3,04:11,52,56,[CON] Tuck Turnaround Hook Shot: Missed,con,field_goal_attempt,13,79,two_pointer,hook,0,0,0,8.006247560499238,80.65532809790031
+3,04:09,52,56,[WAS] Atkins Rebound (Off:2 Def:3),was,rebound,13,79,NA,NA,0,0,0,8.006247560499238,80.65532809790031
+3,03:54,54,56,[WAS 54-56] Delle Donne Layup Shot: Made (15 PTS),was,field_goal_attempt,46,13,two_pointer,layup,1,1,0,4.780167361086848,15.78075330951539
+3,03:40,54,58,[CON 58-54] Thomas Cutting Layup Shot: Made (17 PTS) Assist: Thomas (6 AST),con,field_goal_attempt,-76,24,two_pointer,layup,1,1,0,7.9699435380685095,162.47443162627712
+3,03:28,54,58,[WAS] Toliver Foul: Offensive Charge (2 PF),was,foul,-7,28,NA,NA,0,0,0,2.886173937932362,104.0362434679265
+3,03:28,54,58,[WAS] Toliver Turnover : Offensive Foul Turnover (4 TO),was,turnover,-7,28,NA,NA,0,0,0,2.886173937932362,104.0362434679265
+3,03:22,54,58,[WAS] Atkins Foul: Personal (3 PF),was,foul,-76,144,NA,NA,0,0,0,16.282505949638097,117.82409638425325
+3,03:15,54,58,[CON] Williams Pullup Jump shot: Missed,con,field_goal_attempt,46,11,two_pointer,jump,0,0,0,4.729693436154187,13.448615051686518
+3,03:13,54,58,[WAS] Delle Donne Rebound (Off:1 Def:5),was,rebound,46,11,NA,NA,0,0,0,4.729693436154187,13.448615051686518
+3,03:01,56,58,[WAS 56-58] Meesseman Turnaround Jump Shot: Made (14 PTS),was,field_goal_attempt,-22,90,two_pointer,jump,1,1,0,9.264987857520376,103.73626830562259
+3,02:46,56,58,[CON] Thomas Layup Shot: Missed Block: Meesseman (1 BLK),con,field_goal_attempt,52,100,two_pointer,layup,0,0,0,11.271202242884296,62.52556837372287
+3,02:43,56,58,[CON] Thomas Rebound (Off:2 Def:1),con,rebound,52,100,NA,NA,0,0,0,11.271202242884296,62.52556837372287
+3,02:39,56,58,[CON] Williams Turnaround Fadeaway shot: Missed,con,field_goal_attempt,6,161,two_pointer,jump,0,0,0,16.11117624507907,87.86574123749772
+3,02:36,56,58,[CON] Tuck Rebound (Off:1 Def:1),con,rebound,6,161,NA,NA,0,0,0,16.11117624507907,87.86574123749772
+3,02:34,56,58,[CON] Williams 3pt Shot: Missed,con,field_goal_attempt,-122,246,three_pointer,jump,0,0,0,27.459060435491963,116.37842063351242
+3,02:31,56,58,[WAS] Atkins Rebound (Off:2 Def:4),was,rebound,-122,246,NA,NA,0,0,0,27.459060435491963,116.37842063351242
+3,02:10,58,58,[WAS 58-58] Meesseman Finger Roll Layup Shot: Made (16 PTS),was,field_goal_attempt,26,29,two_pointer,layup,1,1,0,3.8948684188300895,48.12213046211571
+3,01:50,58,60,[CON 60-58] Williams Pullup Jump shot: Made (12 PTS),con,field_goal_attempt,113,117,two_pointer,jump,1,1,0,16.265915283192644,45.99634789650493
+3,01:33,58,60,[WAS] Meesseman Jump Shot: Missed,was,field_goal_attempt,28,148,two_pointer,jump,0,0,0,15.062536307010186,79.28687697720898
+3,01:29,58,60,[CON] Thomas Rebound (Off:1 Def:8),con,rebound,28,148,NA,NA,0,0,0,15.062536307010186,79.28687697720898
+3,01:22,58,60,[CON] Tuck Reverse Layup Shot: Missed Block: Delle Donne (2 BLK),con,field_goal_attempt,-11,58,two_pointer,layup,0,0,0,5.903388857258177,100.73889710090543
+3,01:22,58,60,[CON] Team Rebound,con,rebound,-11,58,NA,NA,0,0,0,5.903388857258177,100.73889710090543
+3,01:20,58,60,[CON] Williams Pullup Jump shot: Missed,con,field_goal_attempt,148,6,two_pointer,jump,0,0,0,14.81215716902842,2.3215305898327188
+3,01:17,58,60,[WAS] Cloud Rebound (Off:1 Def:2),was,rebound,148,6,NA,NA,0,0,0,14.81215716902842,2.3215305898327188
+3,01:07,58,60,[WAS] Cloud 3pt Shot: Missed,was,field_goal_attempt,14,249,three_pointer,jump,0,0,0,24.9393263742227,86.7819387162058
+3,01:03,58,60,[CON] Williams Rebound (Off:0 Def:1),con,rebound,14,249,NA,NA,0,0,0,24.9393263742227,86.7819387162058
+3,00:47.9,58,62,[CON 62-58] Thomas Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Tuck (1 AST),con,field_goal_attempt,0,127,two_pointer,jump,1,1,0,12.7,90
+3,00:39.9,60,62,[WAS 60-62] Cloud Driving Bank Hook Shot: Made (9 PTS),was,field_goal_attempt,-67,34,two_pointer,hook,1,1,0,7.513321502504734,153.09390654406315
+3,00:31.3,60,62,[CON] Thomas Driving Layup Shot: Missed,con,field_goal_attempt,-5,41,two_pointer,layup,0,0,0,4.1303752856126765,96.95295746817392
+3,00:29.3,60,62,[WAS] Delle Donne Rebound (Off:1 Def:6),was,rebound,-5,41,NA,NA,0,0,0,4.1303752856126765,96.95295746817392
+3,00:11.8,62,62,[WAS 62-62] Meesseman Jump Shot: Made (18 PTS),was,field_goal_attempt,-176,18,two_pointer,jump,1,1,0,17.691806012954135,174.16050768848257
+3,00:09.9,62,62,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Atkins (1 ST),con,turnover,23,826,NA,NA,0,0,0,82.63201558718025,88.40500907660429
+3,00:06.5,62,62,[WAS] Atkins Layup Shot: Missed,was,field_goal_attempt,-8,2,two_pointer,layup,0,0,0,0.8246211251235323,165.96375653207352
+3,00:05.3,62,62,[CON] Thomas Rebound (Off:1 Def:9),con,rebound,-8,2,NA,NA,0,0,0,0.8246211251235323,165.96375653207352
+3,00:02.1,62,64,[CON 64-62] Thomas Floating Jump shot: Made (19 PTS),con,field_goal_attempt,32,149,two_pointer,jump,1,1,0,15.239750654128171,77.87898454741423
+3,00:01.1,62,64,[WAS] Cloud 3pt Shot: Missed,was,field_goal_attempt,161,601,three_pointer,jump,0,0,0,62.219128891362665,75.00333245410425
+3,00:00.1,62,64,[WAS] Team Rebound,was,rebound,161,601,NA,NA,0,0,0,62.219128891362665,75.00333245410425
+4,09:51,62,64,[CON] Thomas Floating Jump shot: Missed,con,field_goal_attempt,76,138,two_pointer,jump,0,0,0,15.754364474646383,61.15733986458794
+4,09:46,62,64,[WAS] Powers Rebound (Off:0 Def:4),was,rebound,76,138,NA,NA,0,0,0,15.754364474646383,61.15733986458794
+4,09:35,62,64,[CON] Holmes Foul: Defense 3 Second (1 PF) (1 FTA),con,foul,0,-80,NA,NA,0,0,0,8,270
+4,09:35,62,64,[WAS] Delle Donne Free Throw Technical Missed,was,free_throw_attempt,0,-80,NA,NA,0,0,0,8,270
+4,09:35,62,64,[WAS] Team Rebound,was,rebound,0,-80,NA,NA,0,0,0,8,270
+4,09:25,65,64,[WAS 65-64] Cloud 3pt Shot: Made (12 PTS) Assist: Toliver (2 AST),was,field_goal_attempt,105,230,three_pointer,jump,1,1,0,25.283393759541063,65.46227152342222
+4,09:08,65,64,[CON] Thomas Floating Jump shot: Missed,con,field_goal_attempt,45,149,two_pointer,jump,0,0,0,15.564703659241315,73.19497906246215
+4,09:06,65,64,[WAS] Cloud Rebound (Off:1 Def:3),was,rebound,45,149,NA,NA,0,0,0,15.564703659241315,73.19497906246215
+4,08:57,67,64,[WAS 67-64] Delle Donne Driving Layup Shot: Made (17 PTS) Assist: Cloud (3 AST),was,field_goal_attempt,49,17,two_pointer,layup,1,1,0,5.186520991955977,19.133643205905482
+4,08:37,67,66,[CON 66-67] Jones Turnaround Fadeaway shot: Made (21 PTS),con,field_goal_attempt,-136,8,two_pointer,jump,1,1,0,13.62350909274112,176.63353933657018
+4,08:15,67,66,[WAS] Meesseman Layup Shot: Missed,was,field_goal_attempt,49,35,two_pointer,layup,0,0,0,6.021627686929839,35.53767779197438
+4,08:15,67,66,[CON] Jones Rebound (Off:2 Def:5),con,rebound,49,35,NA,NA,0,0,0,6.021627686929839,35.53767779197438
+4,08:15,67,66,[WAS] Meesseman Foul: Personal (2 PF),was,foul,-14,799,NA,NA,0,0,0,79.91226439039255,91.00382833289859
+4,08:04,67,68,[CON 68-67] Stricklen Cutting Layup Shot: Made (7 PTS) Assist: Thomas (5 AST),con,field_goal_attempt,-64,38,two_pointer,layup,1,1,0,7.443117626371358,149.3002774491856
+4,07:40,67,68,[WAS] Delle Donne Layup Shot: Missed,was,field_goal_attempt,-25,37,two_pointer,layup,0,0,0,4.465422712353221,124.04593735660166
+4,07:37,67,68,[CON] Thomas Rebound (Off:1 Def:10),con,rebound,-25,37,NA,NA,0,0,0,4.465422712353221,124.04593735660166
+4,07:36,67,68,[CON] Thomas Foul: Offensive Charge (3 PF),con,foul,93,363,NA,NA,0,0,0,37.472389835717706,75.6299984848207
+4,07:36,67,68,[CON] Thomas Turnover : Offensive Foul Turnover (2 TO),con,turnover,93,363,NA,NA,0,0,0,37.472389835717706,75.6299984848207
+4,07:20,67,68,[WAS] Toliver 3pt Shot: Missed,was,field_goal_attempt,-174,207,three_pointer,jump,0,0,0,27.04163456597992,130.04972776570824
+4,07:17,67,68,[CON] Hiedeman Rebound (Off:0 Def:1),con,rebound,-174,207,NA,NA,0,0,0,27.04163456597992,130.04972776570824
+4,07:05,67,68,[CON] Thomas Layup Shot: Missed,con,field_goal_attempt,-4,46,two_pointer,layup,0,0,0,4.617358552246078,94.96974072811031
+4,07:02,67,68,[CON] Jones Rebound (Off:3 Def:5),con,rebound,-4,46,NA,NA,0,0,0,4.617358552246078,94.96974072811031
+4,07:02,67,70,[CON 70-67] Jones Putback Layup Shot: Made (23 PTS),con,field_goal_attempt,20,-1,two_pointer,layup,1,1,0,2.0024984394500787,357.1375947738882
+4,06:44,70,70,[WAS 70-70] Cloud 3pt Shot: Made (15 PTS) Assist: Meesseman (3 AST),was,field_goal_attempt,-18,257,three_pointer,jump,1,1,0,25.762957904712728,94.00639147162724
+4,06:31,70,70,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Meesseman (1 ST),con,turnover,2,277,NA,NA,0,0,0,27.70072201225087,89.58631924978064
+4,06:26,72,70,[WAS 72-70] Cloud Cutting Layup Shot: Made (17 PTS) Assist: Toliver (3 AST),was,field_goal_attempt,52,5,two_pointer,layup,1,1,0,5.223983154643591,5.492324557127438
+4,06:11,72,70,[WAS] Toliver Foul: Personal (3 PF),was,foul,-85,33,NA,NA,0,0,0,9.118113840043893,158.78203042322139
+4,06:04,72,70,[CON] Williams Driving Layup Shot: Missed,con,field_goal_attempt,2,25,two_pointer,layup,0,0,0,2.5079872407968904,85.42607874009914
+4,06:01,72,70,[WAS] Delle Donne Rebound (Off:1 Def:7),was,rebound,2,25,NA,NA,0,0,0,2.5079872407968904,85.42607874009914
+4,05:47,72,70,[WAS] Toliver 3pt Shot: Missed,was,field_goal_attempt,-180,222,three_pointer,jump,0,0,0,28.580412873154927,129.0355128987469
+4,05:44,72,70,[CON] Thomas Rebound (Off:1 Def:11),con,rebound,-180,222,NA,NA,0,0,0,28.580412873154927,129.0355128987469
+4,05:39,72,72,[CON 72-72] Williams Jump Shot: Made (14 PTS) Assist: Thomas (6 AST),con,field_goal_attempt,3,175,two_pointer,jump,1,1,0,17.5025712396779,89.01788283677583
+4,05:10,74,72,[WAS 74-72] Delle Donne Turnaround Fadeaway Bank Jump Shot: Made (19 PTS),was,field_goal_attempt,-73,45,two_pointer,jump,1,1,0,8.575546629807338,148.34872711328737
+4,04:44,74,72,[CON] Williams Hook Shot: Missed,con,field_goal_attempt,-32,87,two_pointer,hook,0,0,0,9.269843580125825,110.19433424518398
+4,04:42,74,72,[WAS] Meesseman Rebound (Off:0 Def:2),was,rebound,-32,87,NA,NA,0,0,0,9.269843580125825,110.19433424518398
+4,04:23,76,72,[WAS 76-72] Toliver Driving Finger Roll Layup Shot: Made (12 PTS),was,field_goal_attempt,10,56,two_pointer,layup,1,1,0,5.688585061331157,79.8753283446022
+4,04:08,76,72,[WAS] Toliver Foul: Personal (4 PF),was,foul,28,260,NA,NA,0,0,0,26.150334605889846,83.85337434035333
+4,03:57,76,72,[CON] Thomas 3pt Shot: Missed,con,field_goal_attempt,-110,235,three_pointer,jump,0,0,0,25.947061490658243,115.08359400619092
+4,03:54,76,72,[WAS] Toliver Rebound (Off:1 Def:3),was,rebound,-110,235,NA,NA,0,0,0,25.947061490658243,115.08359400619092
+4,03:34,78,72,[WAS 78-72] Delle Donne Jump Shot: Made (21 PTS),was,field_goal_attempt,22,23,two_pointer,jump,1,1,0,3.1827660925679098,46.273030020056716
+4,03:17,78,72,[CON] Thomas Floating Jump shot: Missed,con,field_goal_attempt,82,89,two_pointer,jump,0,0,0,12.101652779682617,47.344132474069845
+4,03:15,78,72,[WAS] Meesseman Rebound (Off:0 Def:3),was,rebound,82,89,NA,NA,0,0,0,12.101652779682617,47.344132474069845
+4,02:54,80,72,[WAS 80-72] Meesseman Jump Shot: Made (20 PTS) Assist: Toliver (4 AST),was,field_goal_attempt,21,45,two_pointer,jump,1,1,0,4.965883607174055,64.98310652189998
+4,02:41,80,72,[WAS] Meesseman Foul: Shooting (3 PF) (2 FTA),was,foul,57,0,NA,NA,0,0,1,5.7,0
+4,02:41,80,72,[CON] Jones Free Throw 1 of 2 Missed,con,free_throw_attempt,0,-80,NA,NA,0,0,0,8,270
+4,02:41,80,72,[CON] Team Rebound,con,rebound,0,-80,NA,NA,0,0,0,8,270
+4,02:41,80,73,[CON 73-80] Jones Free Throw 2 of 2 (24 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,02:28,80,73,[WAS] Toliver Turnover : Out of Bounds - Bad Pass Turnover (5 TO),was,turnover,-217,191,NA,NA,0,0,0,28.908476265621474,138.64627120875684
+4,02:15,80,73,[CON] Williams Pullup Jump shot: Missed,con,field_goal_attempt,-135,63,two_pointer,jump,0,0,0,14.897650821522163,154.9831065219
+4,02:13,80,73,[CON] Team Rebound,con,rebound,-135,63,NA,NA,0,0,0,14.897650821522163,154.9831065219
+4,02:13,80,73,[WAS] Meesseman Foul: Loose Ball (4 PF) (2 FTA),was,foul,-24,49,NA,NA,0,0,0,5.456189146281496,116.09542415738835
+4,02:13,80,74,[CON 74-80] Jones Free Throw 1 of 2 (25 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,02:13,80,74,[CON] Jones Free Throw 2 of 2 Missed,con,free_throw_attempt,0,-80,NA,NA,0,0,0,8,270
+4,02:11,80,74,[WAS] Atkins Rebound (Off:2 Def:5),was,rebound,0,-80,NA,NA,0,0,0,8,270
+4,01:51,82,74,[WAS 82-74] Meesseman Driving Floating Bank Jump Shot: Made (22 PTS),was,field_goal_attempt,-43,13,two_pointer,jump,1,1,0,4.49221548904324,163.17859010995917
+4,01:51,82,74,[CON] Thomas Foul: Shooting (2 PF) (1 FTA),con,foul,-25,26,NA,NA,0,0,1,3.606937759374287,133.87669728592456
+4,01:51,82,74,[WAS] Meesseman Free Throw 1 of 1 Missed,was,free_throw_attempt,0,-80,NA,NA,0,0,0,8,270
+4,01:48,82,74,[CON] Jones Rebound (Off:3 Def:6),con,rebound,0,-80,NA,NA,0,0,0,8,270
+4,01:39,82,74,[WAS] Atkins Foul: Shooting (4 PF) (2 FTA),was,foul,93,56,NA,NA,0,0,1,10.855873986004076,31.054271116352783
+4,01:39,82,75,[CON 75-82] Williams Free Throw 1 of 2 (15 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,01:39,82,76,[CON 76-82] Williams Free Throw 2 of 2 (16 PTS),con,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,01:29,82,76,[CON] Thomas Foul: Personal (4 PF) (2 FTA),con,foul,-65,28,NA,NA,0,0,0,7.077428911688198,156.6951094607969
+4,01:29,83,76,[WAS 83-76] Toliver Free Throw 1 of 2 (13 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,01:29,84,76,[WAS 84-76] Toliver Free Throw 2 of 2 (14 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,01:15,84,76,[CON] Stricklen 3pt Shot: Missed Block: Meesseman (2 BLK),con,field_goal_attempt,20,255,three_pointer,jump,0,0,0,25.578311124857326,85.51539399045538
+4,01:13,84,76,[WAS] Cloud Rebound (Off:1 Def:4),was,rebound,20,255,NA,NA,0,0,0,25.578311124857326,85.51539399045538
+4,00:57.4,84,76,[CON] Thomas Foul: Personal (3 PF) (2 FTA),con,foul,52,12,NA,NA,0,0,0,5.336665625650534,12.994616791916505
+4,00:57.4,84,76,[WAS] Cloud Free Throw 1 of 2 Missed,was,free_throw_attempt,0,-80,NA,NA,0,0,0,8,270
+4,00:57.4,84,76,[WAS] Team Rebound,was,rebound,0,-80,NA,NA,0,0,0,8,270
+4,00:57.4,85,76,[WAS 85-76] Cloud Free Throw 2 of 2 (18 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,00:50.5,85,78,[CON 78-85] Thomas Cutting Layup Shot: Made (21 PTS) Assist: Williams (1 AST),con,field_goal_attempt,-55,16,two_pointer,layup,1,1,0,5.7280013966478744,163.7798063043972
+4,00:43.5,85,78,[CON] Thomas Foul: Personal (4 PF) (2 FTA),con,foul,-3,348,NA,NA,0,0,0,34.801293079424504,90.49391689861876
+4,00:43.5,86,78,[WAS 86-78] Toliver Free Throw 1 of 2 (15 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,00:43.5,87,78,[WAS 87-78] Toliver Free Throw 2 of 2 (16 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,00:33.8,87,78,[CON] Williams Turnover : Bad Pass (2 TO) Steal:Meesseman (2 ST),con,turnover,-26,-4,NA,NA,0,0,0,2.6305892875931813,188.7461622625552
+4,00:28.0,87,78,[CON] Williams Foul: Personal Take (1 PF) (2 FTA),con,foul,22,737,NA,NA,0,0,0,73.73282850942313,88.29018595585846
+4,00:28.0,88,78,[WAS 88-78] Toliver Free Throw 1 of 2 (17 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,00:28.0,89,78,[WAS 89-78] Toliver Free Throw 2 of 2 (18 PTS),was,free_throw_attempt,0,-80,NA,NA,1,0,0,8,270
+4,00:23.5,89,78,[CON] Williams 3pt Shot: Missed,con,field_goal_attempt,-174,187,three_pointer,jump,0,0,0,25.543100829773977,132.9376082749202
+4,00:20.8,89,78,[WAS] Delle Donne Rebound (Off:1 Def:8),was,rebound,-174,187,NA,NA,0,0,0,25.543100829773977,132.9376082749202
