@@ -1,7 +1,7 @@
 library(tidyverse)
 wnba <- read_csv("http://www.stat.cmu.edu/cmsac/sure/materials/data/eda_projects/wnba_championship_game_five.csv")
 
-#As the periods progress, players get less accurate with shooting 
+#As the score gets closer, shots get less accurate 
 
 
 new_wnba <- wnba %>% 
