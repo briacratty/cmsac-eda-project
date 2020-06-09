@@ -52,24 +52,6 @@ library(patchwork)
 shot_map_con / shot_map_was
 
 
-#As the periods progress, players get less accurate with shooting 
-
-new_wnba <- wnba %>% 
-  mutate (time_elapsed_in_period = parse_time("10:00", format="%M:%S") - 
-            parse_time(strftime(strptime(wnba$clock, format="%M:%S"), 
-                                format="%M:%S"), format="%M:%S"), 
-          time_elapsed_seconds = time_elapsed_in_period + 600*(period-1),
-          time_elapsed_minutes = as.numeric(time_elapsed_seconds) / 60) %>%
-  filter(event == "field_goal_attempt") %>%
-  ggplot(aes(x = time_elapsed_in_minutes, 
-         y = shot_type, 
-         color = shot_made)) +
-  geom_line()
-
-
-str(new_wnba$time_elapsed_in_period)
-#showing up as null variable so can't be plotted
-
 
 #closer the score the less likely a shot is to be made (possible stress/anxiety)
 
