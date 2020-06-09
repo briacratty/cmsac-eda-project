@@ -1,3 +1,6 @@
+library(tidyverse)
+wnba <- read_csv("http://www.stat.cmu.edu/cmsac/sure/materials/data/eda_projects/wnba_championship_game_five.csv")
+
 install.packages("patchwork")
 
 # X, y location on the court is a determinate of the probability of 
@@ -22,8 +25,8 @@ shot_map_was <- wnba %>%
   geom_point() +
   theme_bw() +
   labs (title = "Map of Washington Mystics Shots",
-        x = "X Coordinate",
-        y = "Y Coordinate")
+        x = "Horizontal Location",
+        y = "Vertical Location")
 
 library(patchwork)
 shot_map_con / shot_map_was

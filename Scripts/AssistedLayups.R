@@ -1,4 +1,6 @@
 #Assisted layups are the most likely shot to be made 
+library(tidyverse)
+wnba <- read_csv("http://www.stat.cmu.edu/cmsac/sure/materials/data/eda_projects/wnba_championship_game_five.csv")
 
 wnba %>%
   filter((shot_type == "layup"), !is.na(shot_type), assisted == 1) %>%
