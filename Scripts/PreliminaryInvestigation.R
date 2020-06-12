@@ -1,6 +1,7 @@
 library(tidyverse)
 wnba <- read_csv("http://www.stat.cmu.edu/cmsac/sure/materials/data/eda_projects/wnba_championship_game_five.csv")
 
+str(wnba)
 as_tibble(wnba)
 
 #Assisted layups are the most likely shot to be made 
@@ -85,5 +86,21 @@ shot_map_by_period <- wnba %>%
         x = "X Location",
         y = "Y Location")
 shot_map_by_period
+
+# fouls are more likely to occur closer to the hoop
+wnba %>%
+  filter(event == "foul") %>%
+  ggplot(aes(x = distance_from_hoop)) +
+  stat_ecdf() +
+  geom_vline(xintercept = 15) +
+  geom_rug(alpha = 0.7) +
+  labs(title = "Fouls Likely to Occur Closer to the Hoop",
+       subtitle = "Game 5 WNBA Championship 2019",
+       x = "Distance from the Hoop (feet)",
+       y = "ECDF") +
+  theme_bw()
+
+
+  
   
 

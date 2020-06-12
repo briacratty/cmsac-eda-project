@@ -1,7 +1,7 @@
 library(tidyverse)
 wnba <- read_csv("http://www.stat.cmu.edu/cmsac/sure/materials/data/eda_projects/wnba_championship_game_five.csv")
 
-#As the score gets closer, shots get less accurate 
+# As the score gets closer, shots get less accurate 
 
 
 new_wnba <- wnba %>% 
@@ -20,11 +20,13 @@ new_wnba %>%
   ggplot(aes(x = time_elapsed,
              y = score_difference,
              color = shot_made)) +
-  geom_point() +
+  geom_line(lwd = 1.2) +
   theme_bw() +
   labs (title = "Score Difference as Time Elapsed",
         subtitle = "Game 5 of 2019 WNBA Championship",
         x = "Time Elapsed in Game",
         y = "Score Difference") +
-  scale_fill_discrete(name = "Shot Made?")
+  guides(color = guide_legend(title="Shot Made?")) +
+  scale_color_continuous(breaks = c(0,1), labels = c("No", "Yes")) 
+
 

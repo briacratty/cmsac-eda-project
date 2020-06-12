@@ -14,8 +14,12 @@ wnba %>%
              fill = shot_type)) +
   geom_bar(position = "dodge") +
   theme_bw() +
-  labs(x = "Asssisted (1) or Unassisted (0)",
-       y = "Count")
+  labs(title = "Likelihood of Shot Types Being Assisted",
+       subtitle = "Game 5 WNBA Championship 2019",
+       x = "Unasssisted (0) or Assisted (1)",
+       y = "Count") +
+  guides(fill = guide_legend(title="Shot Type")) 
+  
 
 # show dispersion of field goal types in each period
 wnba %>%
@@ -26,3 +30,5 @@ wnba %>%
   theme_bw() +
   labs(x = "Period",
        y = "Count")
+
+
